@@ -8,4 +8,4 @@ Our app is completely self-serving, and therefore does not link to any external 
 
 Your continued use of our app will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-This policy is effective as of 1 August 2020.
+This policy is effective as of 17 August 2023.
